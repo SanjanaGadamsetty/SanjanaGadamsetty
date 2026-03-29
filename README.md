@@ -94,13 +94,13 @@ class Sanjana:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaGadamsetty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0714&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" width="47%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanjanaGadamsetty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0714&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" width="47%"/>
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=SanjanaGadamsetty&theme=tokyonight&hide_border=true&background=0a0714&ring=7c3aed&fire=a855f7&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaGadamsetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0714&title_color=a78bfa&text_color=c4b5fd&langs_count=6" width="42%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanjanaGadamsetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0714&title_color=a78bfa&text_color=c4b5fd&langs_count=6" width="42%"/>
 </p>
 
 ---
@@ -108,21 +108,31 @@ class Sanjana:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjanaGadamsetty&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=SanjanaGadamsetty&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+</p>>
 
 ---
 
 ## 📌 Featured Projects
 
 <p align="center">
+
   <a href="https://github.com/SanjanaGadamsetty/TIC-TAC-TOE.tkinter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjanaGadamsetty&repo=TIC-TAC-TOE.tkinter&theme=tokyonight&hide_border=true&bg_color=0a0714&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd"/>
+    <img src="https://img.shields.io/badge/🎮%20TIC--TAC--TOE%20tkinter-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  &nbsp;
+  <br/><br/>
   <a href="https://github.com/SanjanaGadamsetty/DSA-pattern-wise-programs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjanaGadamsetty&repo=DSA-pattern-wise-programs&theme=tokyonight&hide_border=true&bg_color=0a0714&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd"/>
+    <img src="https://img.shields.io/badge/🧠%20DSA%20Pattern--wise%20Programs-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   </a>
+  <br/><br/>
+  <a href="https://github.com/SanjanaGadamsetty/ConversionBODH">
+    <img src="https://img.shields.io/badge/🔢%20ConversionBODH-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/SanjanaGadamsetty/LeetCode-DSA-Programs">
+    <img src="https://img.shields.io/badge/⚡%20LeetCode%20DSA%20Tracker-DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
 </p>
 
 ---
