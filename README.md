@@ -1,45 +1,5 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/-Sanjana%20Gadamsetty-7c3aed?style=for-the-badge&logoColor=white" height="50"/>
-</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠%20AI%20%26%20Data%20Science-First%20Year%20B.Tech-4c1d95?style=flat-square" height="26"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SJCE-Chennai-7c3aed?style=flat-square&logo=google-scholar&logoColor=white" height="24"/>
-  &nbsp;+&nbsp;
-  <img src="https://img.shields.io/badge/IIT%20Madras-B.Sc%20Data%20Science-a855f7?style=flat-square&logo=google-scholar&logoColor=white" height="24"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💡%20Curious%20Mind-2d1b69?style=flat-square" height="22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🔥%20Consistent%20Learner-2d1b69?style=flat-square" height="22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🎨%20Logical%20%26%20Creative-2d1b69?style=flat-square" height="22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🚀%20Future%20Developer-2d1b69?style=flat-square" height="22"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/─────────────%20%E2%9C%A6%20%E2%9C%A6%20%E2%9C%A6%20─────────────-1e0a3c?style=flat" width="55%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanjanaGadamsetty&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sanjana-gadamsetty">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://codolio.com/profile/gvnsanjana">
-    <img src="https://img.shields.io/badge/My%20Portfolio-a855f7?style=for-the-badge&logo=bookstack&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/SanjanaGadamsetty/SanjanaGadamsetty/main/header.svg" width="100%"/>
 </p>
 
 ---
