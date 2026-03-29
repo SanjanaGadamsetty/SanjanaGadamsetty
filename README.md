@@ -1,22 +1,33 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/┌──(sanjana㉿github)-[~%2FProfile]-7c3aed?style=for-the-badge&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/└──%24%20whoami-Sanjana%20Gadamsetty-a855f7?style=for-the-badge&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/role-AI%20%26%20Data%20Science%20Student-22c55e?style=for-the-badge&logo=python&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/base-Chennai%2C%20India%20📍-3b82f6?style=for-the-badge&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/college-SJCE%20%2B%20IIT%20Madras-f59e0b?style=for-the-badge&logoColor=black"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/status-Building%20%26%20Learning%20🚀-ec4899?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦-0a0714?style=flat" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/──────────────────────────────────────-7c3aed?style=flat&logoColor=white" width="60%"/>
+  <img src="https://img.shields.io/badge/⠀⠀⠀⠀S%20A%20N%20J%20A%20N%20A⠀⠀⠀⠀-7c3aed?style=for-the-badge" height="40"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⠀⠀G%20A%20D%20A%20M%20S%20E%20T%20T%20Y⠀⠀-a855f7?style=for-the-badge" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦%20✦-0a0714?style=flat" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20B.Tech%20AI--DS-SJCE-4c1d95?style=flat-square&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓%20B.Sc%20Data%20Science-IIT%20Madras-6d28d9?style=flat-square&logoColor=white" height="28"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Developer-Python%20%7C%20C%20%7C%20C%2B%2B%20%7C%20Java-8b5cf6?style=flat-square" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎨%20Creator-Calligraphy%20%7C%20Art%20%7C%20Poetry-c084fc?style=flat-square" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍%20Based-Chennai%2C%20India-a78bfa?style=flat-square" height="28"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦%20Logic%20+%20Creativity%20=%20Meaningful%20Solutions%20✦-1e0a3c?style=flat" width="70%"/>
 </p>
 
 <p align="center">
@@ -27,7 +38,7 @@
   </a>
   &nbsp;
   <a href="https://codolio.com/profile/gvnsanjana">
-    <img src="https://img.shields.io/badge/Codolio%20Portfolio-a855f7?style=for-the-badge&logo=bookstack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=bookstack&logoColor=white"/>
   </a>
 </p>
 
