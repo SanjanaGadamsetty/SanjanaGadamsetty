@@ -1,16 +1,29 @@
-<!-- WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed,a855f7,c084fc&height=200&section=header&text=Sanjana%20Gadamsetty&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI-DS%20%7C%20SJCE%20%2B%20IIT%20Madras%20%7C%20Chennai&descSize=15&descAlignY=60&descFontColor=e9d5ff"/>
-
-<!-- TYPING ANIMATION -->
+<!-- HEADER using shields - network safe -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi!+I'm+Sanjana+Gadamsetty+👋;B.Tech+AI-DS+%40+SJCE+%7C+B.Sc+Data+Science+%40+IIT+Madras+🎓;Python+%7C+C+%7C+C%2B%2B+%7C+Java+Developer+💻;DSA+Enthusiast+%7C+LeetCode+Grinder+🔥;Logic+meets+Creativity+—+That's+me!+🎨"/>
+  <img src="https://img.shields.io/badge/-%E2%9C%A6%20Sanjana%20Gadamsetty%20%E2%9C%A6-7c3aed?style=for-the-badge&logoColor=white" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20AI--DS-%40%20SJCE-a855f7?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/B.Sc%20Data%20Science-%40%20IIT%20Madras-7c3aed?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍-Chennai%2C%20India-c084fc?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20%7C%20C%20%7C%20C%2B%2B%20%7C%20Java-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSA-Enthusiast-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Logic%20meets-Creativity-f9a8d4?style=for-the-badge&logoColor=white"/>
 </p>
 
 <!-- BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanjanaGadamsetty&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sanjana-gadamsetty-65253136b">
+  <a href="https://www.linkedin.com/in/sanjana-gadamsetty">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -105,11 +118,14 @@ class Sanjana:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjanaGadamsetty&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-</p>>
+  <img src="https://img.shields.io/badge/Stars%20Earned-21-FFD700?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repositories-14-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contributions-58-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Followers-6-1F8ACB?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
