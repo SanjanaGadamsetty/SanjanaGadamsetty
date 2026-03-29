@@ -1,33 +1,34 @@
-<!-- HEADER using shields - network safe -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-%E2%9C%A6%20Sanjana%20Gadamsetty%20%E2%9C%A6-7c3aed?style=for-the-badge&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/┌──(sanjana㉿github)-[~%2FProfile]-7c3aed?style=for-the-badge&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/└──%24%20whoami-Sanjana%20Gadamsetty-a855f7?style=for-the-badge&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/role-AI%20%26%20Data%20Science%20Student-22c55e?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/base-Chennai%2C%20India%20📍-3b82f6?style=for-the-badge&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/college-SJCE%20%2B%20IIT%20Madras-f59e0b?style=for-the-badge&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/status-Building%20%26%20Learning%20🚀-ec4899?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20AI--DS-%40%20SJCE-a855f7?style=for-the-badge&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/B.Sc%20Data%20Science-%40%20IIT%20Madras-7c3aed?style=for-the-badge&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍-Chennai%2C%20India-c084fc?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/──────────────────────────────────────-7c3aed?style=flat&logoColor=white" width="60%"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python%20%7C%20C%20%7C%20C%2B%2B%20%7C%20Java-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/DSA-Enthusiast-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Logic%20meets-Creativity-f9a8d4?style=for-the-badge&logoColor=white"/>
-</p>
-
-<!-- BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanjanaGadamsetty&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
   &nbsp;
   <a href="https://www.linkedin.com/in/sanjana-gadamsetty">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=for-the-badge"/>
+  <a href="https://codolio.com/profile/gvnsanjana">
+    <img src="https://img.shields.io/badge/Codolio%20Portfolio-a855f7?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  </a>
 </p>
 
 ---
