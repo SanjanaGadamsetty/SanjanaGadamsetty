@@ -1,0 +1,90 @@
+<svg viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&amp;family=Raleway:wght@300;400&amp;display=swap');
+      .name-text{font-family:'Quicksand',sans-serif;font-weight:700;font-size:52px;letter-spacing:3px;}
+      .sub-text{font-family:'Raleway',sans-serif;font-weight:300;font-size:14px;fill:#a78bfa;letter-spacing:4px;}
+      .tag-text{font-family:'Raleway',sans-serif;font-weight:400;font-size:12px;}
+      .float1{animation:float1 4s ease-in-out infinite;}
+      .float2{animation:float2 4.5s ease-in-out infinite;}
+      .float3{animation:float3 3.8s ease-in-out infinite;}
+      .float4{animation:float4 5s ease-in-out infinite;}
+      .float5{animation:float5 4.2s ease-in-out infinite;}
+      .float6{animation:float6 3.5s ease-in-out infinite;}
+      .nameanim{animation:nameGlow 3s ease-in-out infinite alternate;}
+      @keyframes float1{0%,100%{transform:translateY(0px)}50%{transform:translateY(-8px)}}
+      @keyframes float2{0%,100%{transform:translateY(0px)}50%{transform:translateY(-6px)}}
+      @keyframes float3{0%,100%{transform:translateY(0px)}50%{transform:translateY(-10px)}}
+      @keyframes float4{0%,100%{transform:translateY(0px)}50%{transform:translateY(-7px)}}
+      @keyframes float5{0%,100%{transform:translateY(0px)}50%{transform:translateY(-9px)}}
+      @keyframes float6{0%,100%{transform:translateY(0px)}50%{transform:translateY(-5px)}}
+      @keyframes nameGlow{from{fill:#e9d5ff}to{fill:#c4b5fd}}
+      .star{animation:twinkle 2s ease-in-out infinite alternate;}
+      .star2{animation:twinkle 2.8s ease-in-out infinite alternate;}
+      .star3{animation:twinkle 1.8s ease-in-out infinite alternate;}
+      @keyframes twinkle{from{opacity:0.2}to{opacity:1}}
+    </style>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4c1d95;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#7c3aed;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#a855f7;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#4c1d95;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c4b5fd"/>
+      <stop offset="50%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#c4b5fd"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="220" fill="#0a0714" rx="12"/>
+
+  <circle class="star" cx="40" cy="30" r="1.5" fill="#a78bfa"/>
+  <circle class="star2" cx="120" cy="15" r="1" fill="#c4b5fd"/>
+  <circle class="star3" cx="200" cy="40" r="1.2" fill="#7c3aed"/>
+  <circle class="star" cx="680" cy="20" r="1.5" fill="#a78bfa"/>
+  <circle class="star2" cx="760" cy="35" r="1" fill="#c4b5fd"/>
+  <circle class="star3" cx="820" cy="15" r="1.2" fill="#7c3aed"/>
+  <circle class="star" cx="430" cy="10" r="1" fill="#e9d5ff"/>
+  <circle class="star2" cx="310" cy="25" r="1.2" fill="#a78bfa"/>
+  <circle class="star3" cx="550" cy="18" r="1" fill="#c4b5fd"/>
+  <circle class="star" cx="80" cy="180" r="1.2" fill="#7c3aed"/>
+  <circle class="star2" cx="780" cy="190" r="1" fill="#a78bfa"/>
+  <circle class="star3" cx="430" cy="205" r="1.2" fill="#c4b5fd"/>
+
+  <rect x="180" y="28" width="500" height="0.8" fill="url(#purpleGrad)"/>
+  <circle class="star" cx="175" cy="28" r="2.5" fill="#7c3aed"/>
+  <circle class="star2" cx="685" cy="28" r="2.5" fill="#7c3aed"/>
+
+  <text x="430" y="105" text-anchor="middle" class="name-text nameanim" fill="url(#nameGrad)">Sanjana Gadamsetty</text>
+  <text x="430" y="132" text-anchor="middle" class="sub-text">✦ AI &amp; DATA SCIENCE · SJCE + IIT MADRAS ✦</text>
+
+  <rect x="180" y="148" width="500" height="0.8" fill="url(#purpleGrad)"/>
+  <circle class="star2" cx="175" cy="148" r="2.5" fill="#a855f7"/>
+  <circle class="star3" cx="685" cy="148" r="2.5" fill="#a855f7"/>
+
+  <g class="float1">
+    <rect x="30" y="80" width="110" height="28" rx="14" fill="#1e0a3c" stroke="#5b21b6" stroke-width="1"/>
+    <text x="85" y="99" text-anchor="middle" class="tag-text" fill="#c4b5fd">💻 Developer</text>
+  </g>
+  <g class="float2">
+    <rect x="30" y="120" width="110" height="28" rx="14" fill="#1e0a3c" stroke="#5b21b6" stroke-width="1"/>
+    <text x="85" y="139" text-anchor="middle" class="tag-text" fill="#c4b5fd">🐍 Python</text>
+  </g>
+  <g class="float3">
+    <rect x="720" y="80" width="110" height="28" rx="14" fill="#1e0a3c" stroke="#5b21b6" stroke-width="1"/>
+    <text x="775" y="99" text-anchor="middle" class="tag-text" fill="#c4b5fd">🎨 Creative</text>
+  </g>
+  <g class="float4">
+    <rect x="720" y="120" width="110" height="28" rx="14" fill="#1e0a3c" stroke="#5b21b6" stroke-width="1"/>
+    <text x="775" y="139" text-anchor="middle" class="tag-text" fill="#c4b5fd">🔥 DSA Grinder</text>
+  </g>
+  <g class="float5">
+    <rect x="270" y="168" width="110" height="26" rx="13" fill="#1e0a3c" stroke="#4c1d95" stroke-width="1"/>
+    <text x="325" y="185" text-anchor="middle" class="tag-text" fill="#a78bfa">📍 Chennai</text>
+  </g>
+  <g class="float6">
+    <rect x="480" y="168" width="110" height="26" rx="13" fill="#1e0a3c" stroke="#4c1d95" stroke-width="1"/>
+    <text x="535" y="185" text-anchor="middle" class="tag-text" fill="#a78bfa">✨ Consistent</text>
+  </g>
+</svg>
