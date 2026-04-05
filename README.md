@@ -73,7 +73,7 @@ class Sanjana:
     <img src="https://img.shields.io/badge/Codolio-a855f7?style=for-the-badge&logo=bookstack&logoColor=white"/>
   </a>
   <a href="https://neetcode.io/profile">
-    <img src="https://shields.io"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
