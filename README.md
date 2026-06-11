@@ -1,132 +1,197 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SanjanaGadamsetty/SanjanaGadamsetty/main/header.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SanjanaGadamsetty/SanjanaGadamsetty/main/header.svg" width="100%" alt="Sanjana Gadamsetty"/>
 </p>
+
+<br/>
+
+<p align="center">
+  <em>Building the intersection of technology and creativity.</em><br/>
+  <sub>Learning, experimenting, and growing — one project at a time.</sub>
+</p>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+<br/>
+
+## 🪴 About Me
+
 ```python
 class Sanjana:
     def __init__(self):
         self.education  = [
             "B.Tech – Artificial Intelligence & Data Science @ SJCE",
-            "B.Sc – Data Science @ IIT Madras (Dual Degree 🎓)"
+            "B.Sc  – Data Science @ IIT Madras (Dual Degree 🎓)"
         ]
         self.location   = "Chennai, India 📍"
         self.languages  = ["Python", "C", "C++", "Java (learning ☕)"]
         self.databases  = ["MySQL"]
         self.tools      = ["Git", "GitHub", "VS Code", "PowerPoint"]
         self.practice   = ["LeetCode", "SkillRack", "CodeChef"]
-        self.creativity = ["Calligraphy ✍️", "Portraits 🖼️", "Painting 🎨",
-                           "Story Writing 📖", "Poetry ✨", "Nail Art 💅", "Singing 🎵"]
-        self.motto      = "Stay consistent. Stay curious. Grow a little every day. 🚀"
+        self.creativity = [
+            "Calligraphy ✍️", "Portraits 🖼️", "Painting 🎨",
+            "Story Writing 📖", "Poetry ✨", "Nail Art 💅", "Singing 🎵"
+        ]
+        self.motto      = "Stay consistent. Stay curious. Grow a little every day. 🌱"
 ```
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-8a9e82?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C-7c6a55?style=for-the-badge&logo=c&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-7c6a55?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Java-b8694a?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4a6fa5?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
----
-
-## 🎯 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/SanjanaGadamsetty/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/users/bit_flux_radha">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="http://www.skillrack.com/profile/538210/c45f9f55d22cf6e52bc258ad6f4aae7a3663a3d3">
-    <img src="https://img.shields.io/badge/SkillRack-7c3aed?style=for-the-badge&logo=databricks&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/gvnsanjana_ds">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/profile/gvnsanjana">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/gvnsanjana09">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://atcoder.jp/users/sanjanagvn">
-    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white"/>
-  </a>
-  <a href="https://cses.fi/user/402663">
-    <img src="https://img.shields.io/badge/CSES-1A73E8?style=for-the-badge&logo=codesignal&logoColor=white"/>
-  </a>
-  <a href="https://codolio.com/profile/gvnsanjana">
-    <img src="https://img.shields.io/badge/Codolio-a855f7?style=for-the-badge&logo=bookstack&logoColor=white"/>
-  </a>
-  <a href="https://neetcode.io/profile">
-    <img src="https://img.shields.io/badge/NeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Anaconda-8a9e82?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-7c6a55?style=for-the-badge&logo=numpy&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-5e7a55?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-4a3d2e?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-4a6fa5?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cursor-7c6a55?style=for-the-badge&logo=cursor&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-b8694a?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## 🏹 Competitive Programming
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/%E2%9C%A6%20Click%20to%20View%20My%20Coding%20Profiles%20%E2%9C%A6-8a9e82?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
+<p align="center"><sub><em>( Link coming soon )</em></sub></p>
+
+<br/>
+
 ---
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanjanaGadamsetty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0714&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" width="47%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanjanaGadamsetty&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=f5f0e8&title_color=7c6a55&icon_color=8a9e82&text_color=5c4a35" width="47%"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=SanjanaGadamsetty&theme=tokyonight&hide_border=true&background=0a0714&ring=7c3aed&fire=a855f7&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=SanjanaGadamsetty&theme=default&hide_border=true&background=f5f0e8&ring=8a9e82&fire=b8694a&currStreakLabel=7c6a55&sideLabels=8a9e82&dates=9e8c78" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanjanaGadamsetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0714&title_color=a78bfa&text_color=c4b5fd&langs_count=6" width="42%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanjanaGadamsetty&layout=compact&theme=default&hide_border=true&bg_color=f5f0e8&title_color=7c6a55&text_color=5c4a35&langs_count=6" width="42%"/>
 </p>
+
+<br/>
 
 ---
 
-## 🏆 Achievements
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Stars%20Earned-21-FFD700?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Repositories-14-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Contributions-58-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Followers-6-1F8ACB?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📌 Featured Projects
+## 🌾 At a Glance
 
 <p align="center">
 
-  <a href="https://github.com/SanjanaGadamsetty/TIC-TAC-TOE.tkinter">
-    <img src="https://img.shields.io/badge/🎮%20TIC--TAC--TOE%20tkinter-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/SanjanaGadamsetty/DSA-pattern-wise-programs">
-    <img src="https://img.shields.io/badge/🧠%20DSA%20Pattern--wise%20Programs-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/SanjanaGadamsetty/ConversionBODH">
-    <img src="https://img.shields.io/badge/🔢%20ConversionBODH-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/SanjanaGadamsetty/LeetCode-DSA-Programs">
-    <img src="https://img.shields.io/badge/⚡%20LeetCode%20DSA%20Tracker-DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+| ⭐ Stars Earned | 📂 Repositories | 🏅 Badges Earned | 👥 Followers |
+|:--------------:|:---------------:|:----------------:|:------------:|
+|       21       |       14        |        —         |      6       |
 
 </p>
 
+<br/>
+
 ---
+
+<br/>
+
+## 🌿 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎮 TIC-TAC-TOE tkinter
+A classic game built with Python's tkinter library — clean GUI, simple logic, good vibes.
+
+`Python` &nbsp; `tkinter` &nbsp; `GUI`
+
+<a href="#">
+  <img src="https://img.shields.io/badge/View%20Project-8a9e82?style=flat-square&logoColor=white"/>
+</a>
+
+</td>
+    <td width="50%" valign="top">
+
+### 🧠 DSA Pattern-wise Programs
+Curated DSA problems organized by patterns to build intuition, not just memory.
+
+`C++` &nbsp; `Algorithms` &nbsp; `Data Structures`
+
+<a href="#">
+  <img src="https://img.shields.io/badge/View%20Project-b8694a?style=flat-square&logoColor=white"/>
+</a>
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔢 ConversionBODH
+A conversion tool that handles number base conversions with clarity and ease.
+
+`Python` &nbsp; `Utility` &nbsp; `CLI`
+
+<a href="#">
+  <img src="https://img.shields.io/badge/View%20Project-8a9e82?style=flat-square&logoColor=white"/>
+</a>
+
+</td>
+    <td width="50%" valign="top">
+
+### ⚡ LeetCode DSA Tracker
+A personal log of LeetCode solutions, tracked and organized for review and revision.
+
+`Python` &nbsp; `DSA` &nbsp; `LeetCode`
+
+<a href="#">
+  <img src="https://img.shields.io/badge/View%20Project-b8694a?style=flat-square&logoColor=white"/>
+</a>
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
 
 ## 🐍 Contribution Snake
 
@@ -138,29 +203,45 @@ class Sanjana:
   </picture>
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🎨 Beyond Code — My Creative Side
 
-> *"I believe the best solutions come from blending logic with creativity."*
+<p align="center">
+  <em>"I believe the best solutions come from blending logic with creativity."</em>
+</p>
 
-✍️ Calligraphy &nbsp;|&nbsp; 🖼️ Portraits &nbsp;|&nbsp; 🎨 Painting &nbsp;|&nbsp; 💅 Nail Art &nbsp;|&nbsp; 📖 Story Writing &nbsp;|&nbsp; ✨ Poetry &nbsp;|&nbsp; 🎵 Singing
+<p align="center">
+  ✍️ Calligraphy &nbsp;·&nbsp; 🖼️ Portraits &nbsp;·&nbsp; 🎨 Painting &nbsp;·&nbsp; 💅 Nail Art<br/>
+  📖 Story Writing &nbsp;·&nbsp; ✨ Poetry &nbsp;·&nbsp; 🎵 Singing
+</p>
+
+<br/>
 
 ---
+
+<br/>
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjana-gadamsetty">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://github.com/SanjanaGadamsetty">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-4a3d2e?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://codolio.com/profile/gvnsanjana">
-    <img src="https://img.shields.io/badge/Codolio%20Portfolio-a855f7?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sanjana-gadamsetty">
+    <img src="https://img.shields.io/badge/LinkedIn-4a6fa5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed,a855f7&height=100&section=footer"/>
+<br/>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SanjanaGadamsetty/SanjanaGadamsetty/main/footer.svg" width="100%" alt="footer"/>
+</p>
