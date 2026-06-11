@@ -15,25 +15,25 @@
 
 <br/>
 
-## 🪴 About Me
+##  About Me
 
 ```python
 class Sanjana:
     def __init__(self):
         self.education  = [
             "B.Tech – Artificial Intelligence & Data Science @ SJCE",
-            "B.Sc  – Data Science @ IIT Madras (Dual Degree 🎓)"
+            "B.Sc  – Data Science @ IIT Madras (Dual Degree )"
         ]
         self.location   = "Chennai, India 📍"
-        self.languages  = ["Python", "C", "C++", "Java (learning ☕)"]
+        self.languages  = ["Python", "C", "C++", "Java (learning )"]
         self.databases  = ["MySQL"]
         self.tools      = ["Git", "GitHub", "VS Code", "PowerPoint"]
         self.practice   = ["LeetCode", "SkillRack", "CodeChef"]
         self.creativity = [
-            "Calligraphy ✍️", "Portraits 🖼️", "Painting 🎨",
-            "Story Writing 📖", "Poetry ✨", "Nail Art 💅", "Singing 🎵"
+            "Calligraphy ", "Portraits ", "Painting ",
+            "Story Writing ", "Poetry ", "Nail Art ", "Singing "
         ]
-        self.motto      = "Stay consistent. Stay curious. Grow a little every day. 🌱"
+        self.motto      = "Stay consistent. Stay curious. Grow a little every day. "
 ```
 
 <br/>
@@ -42,7 +42,7 @@ class Sanjana:
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-8a9e82?style=for-the-badge&logo=python&logoColor=white"/>
@@ -80,10 +80,10 @@ class Sanjana:
 
 <br/>
 
-## 🏹 Competitive Programming
+##  Competitive Programming
 
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/SanjanaGadamsetty/Coding-Profiles-Of-Sanjana">
     <img src="https://img.shields.io/badge/%E2%9C%A6%20Click%20to%20View%20My%20Coding%20Profiles%20%E2%9C%A6-8a9e82?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
@@ -96,7 +96,7 @@ class Sanjana:
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanjanaGadamsetty&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=f5f0e8&title_color=7c6a55&icon_color=8a9e82&text_color=5c4a35" width="47%"/>
@@ -114,13 +114,13 @@ class Sanjana:
 
 <br/>
 
-## 🌾 At a Glance
+##  At a Glance
 
 <p align="center">
 
 | ⭐ Stars Earned | 📂 Repositories | 🏅 Badges Earned | 👥 Followers |
 |:--------------:|:---------------:|:----------------:|:------------:|
-|       21       |       14        |        —         |      6       |
+|       21       |       20        |        —         |      11       |
 
 </p>
 
@@ -136,24 +136,23 @@ class Sanjana:
   <tr>
     <td width="50%" valign="top">
 
-### 🎮 TIC-TAC-TOE tkinter
-A classic game built with Python's tkinter library — clean GUI, simple logic, good vibes.
+### 📚 BookTracker
+A full-featured personal reading tracker built with Python + Flask + MySQL, deployable as a web app.
 
-`Python` &nbsp; `tkinter` &nbsp; `GUI`
+`Python` &nbsp; `MySQL` &nbsp; `HTML`; `CSS` &nbsp; `Flask` &nbsp; `CSS` &nbsp; `JS`
 
-<a href="#">
+<a href="https://github.com/SanjanaGadamsetty/booktracker">
   <img src="https://img.shields.io/badge/View%20Project-8a9e82?style=flat-square&logoColor=white"/>
 </a>
 
 </td>
     <td width="50%" valign="top">
 
-### 🧠 DSA Pattern-wise Programs
-Curated DSA problems organized by patterns to build intuition, not just memory.
+### HP Theme Portfolio
+A static HARRY POTTER themed portfolio..
+`HTML` &nbsp; `CSS` &nbsp; `JS`
 
-`C++` &nbsp; `Algorithms` &nbsp; `Data Structures`
-
-<a href="#">
+<a href="https://github.com/SanjanaGadamsetty/SanjanaGadamsetty-HP-Portfolio">
   <img src="https://img.shields.io/badge/View%20Project-b8694a?style=flat-square&logoColor=white"/>
 </a>
 
@@ -162,24 +161,22 @@ Curated DSA problems organized by patterns to build intuition, not just memory.
   <tr>
     <td width="50%" valign="top">
 
-### 🔢 ConversionBODH
-A conversion tool that handles number base conversions with clarity and ease.
+### Random Password Generator
+This tool helps users create strong passwords with ease and flexibility.
+`Python`
 
-`Python` &nbsp; `Utility` &nbsp; `CLI`
-
-<a href="#">
+<a href="https://github.com/SanjanaGadamsetty/Random-Password-Generator">
   <img src="https://img.shields.io/badge/View%20Project-8a9e82?style=flat-square&logoColor=white"/>
 </a>
 
 </td>
     <td width="50%" valign="top">
 
-### ⚡ LeetCode DSA Tracker
-A personal log of LeetCode solutions, tracked and organized for review and revision.
+### Tic Tac Toe Game
+A simple Tic Tac Toe game to play.
+`Python` &nbsp; `Tkinter`
 
-`Python` &nbsp; `DSA` &nbsp; `LeetCode`
-
-<a href="#">
+<a href="https://github.com/SanjanaGadamsetty/TIC-TAC-TOE.tkinter">
   <img src="https://img.shields.io/badge/View%20Project-b8694a?style=flat-square&logoColor=white"/>
 </a>
 
@@ -216,8 +213,8 @@ A personal log of LeetCode solutions, tracked and organized for review and revis
 </p>
 
 <p align="center">
-  ✍️ Calligraphy &nbsp;·&nbsp; 🖼️ Portraits &nbsp;·&nbsp; 🎨 Painting &nbsp;·&nbsp; 💅 Nail Art<br/>
-  📖 Story Writing &nbsp;·&nbsp; ✨ Poetry &nbsp;·&nbsp; 🎵 Singing
+   Calligraphy &nbsp;·&nbsp;  Portraits &nbsp;·&nbsp;  Painting &nbsp;·&nbsp;  Nail Art<br/>
+   Story Writing &nbsp;·&nbsp;  Poetry &nbsp;·&nbsp;  Singing
 </p>
 
 <br/>
@@ -226,7 +223,7 @@ A personal log of LeetCode solutions, tracked and organized for review and revis
 
 <br/>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://github.com/SanjanaGadamsetty">
