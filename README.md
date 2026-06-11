@@ -83,12 +83,11 @@ class Sanjana:
 ##  Competitive Programming
 
 <p align="center">
-  <a href="https://github.com/SanjanaGadamsetty/Coding-Profiles-Of-Sanjana">
+  <a href="https://sanjanagadamsetty.github.io/Coding-Profiles-Of-Sanjana/">
     <img src="https://img.shields.io/badge/%E2%9C%A6%20Click%20to%20View%20My%20Coding%20Profiles%20%E2%9C%A6-8a9e82?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
-<p align="center"><sub><em>( Link coming soon )</em></sub></p>
 
 <br/>
 
