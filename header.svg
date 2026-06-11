@@ -1,90 +1,130 @@
-<svg viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg" width="100%">
+<svg viewBox="0 0 860 260" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&amp;family=Raleway:wght@300;400&amp;display=swap');
-      .name-text{font-family:'Quicksand',sans-serif;font-weight:700;font-size:52px;letter-spacing:3px;}
-      .sub-text{font-family:'Raleway',sans-serif;font-weight:300;font-size:14px;fill:#a78bfa;letter-spacing:4px;}
-      .tag-text{font-family:'Raleway',sans-serif;font-weight:400;font-size:12px;}
-      .float1{animation:float1 4s ease-in-out infinite;}
-      .float2{animation:float2 4.5s ease-in-out infinite;}
-      .float3{animation:float3 3.8s ease-in-out infinite;}
-      .float4{animation:float4 5s ease-in-out infinite;}
-      .float5{animation:float5 4.2s ease-in-out infinite;}
-      .float6{animation:float6 3.5s ease-in-out infinite;}
-      .nameanim{animation:nameGlow 3s ease-in-out infinite alternate;}
-      @keyframes float1{0%,100%{transform:translateY(0px)}50%{transform:translateY(-8px)}}
-      @keyframes float2{0%,100%{transform:translateY(0px)}50%{transform:translateY(-6px)}}
-      @keyframes float3{0%,100%{transform:translateY(0px)}50%{transform:translateY(-10px)}}
-      @keyframes float4{0%,100%{transform:translateY(0px)}50%{transform:translateY(-7px)}}
-      @keyframes float5{0%,100%{transform:translateY(0px)}50%{transform:translateY(-9px)}}
-      @keyframes float6{0%,100%{transform:translateY(0px)}50%{transform:translateY(-5px)}}
-      @keyframes nameGlow{from{fill:#e9d5ff}to{fill:#c4b5fd}}
-      .star{animation:twinkle 2s ease-in-out infinite alternate;}
-      .star2{animation:twinkle 2.8s ease-in-out infinite alternate;}
-      .star3{animation:twinkle 1.8s ease-in-out infinite alternate;}
-      @keyframes twinkle{from{opacity:0.2}to{opacity:1}}
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&amp;family=Jost:wght@300;400&amp;display=swap');
+      .name-text { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 300; font-size: 54px; letter-spacing: 6px; }
+      .sub-text  { font-family: 'Jost', sans-serif; font-weight: 300; font-size: 12px; letter-spacing: 5px; }
+      .tag-text  { font-family: 'Jost', sans-serif; font-weight: 300; font-size: 11px; }
+      .leaf  { animation: sway  5s   ease-in-out infinite;         transform-origin: bottom center; }
+      .leaf2 { animation: sway  6.5s ease-in-out infinite reverse; transform-origin: bottom center; }
+      .leaf3 { animation: sway  4.5s ease-in-out infinite;         transform-origin: bottom center; }
+      .float1 { animation: floatUp 4.0s ease-in-out infinite; }
+      .float2 { animation: floatUp 4.5s ease-in-out infinite; animation-delay: 0.4s; }
+      .float3 { animation: floatUp 5.0s ease-in-out infinite; animation-delay: 0.8s; }
+      .float4 { animation: floatUp 4.2s ease-in-out infinite; animation-delay: 0.2s; }
+      .float5 { animation: floatUp 4.8s ease-in-out infinite; animation-delay: 0.6s; }
+      .float6 { animation: floatUp 5.2s ease-in-out infinite; animation-delay: 1.0s; }
+      .namefade { animation: nameShimmer 4s ease-in-out infinite alternate; }
+      .twinkle  { animation: twinkle 2.5s ease-in-out infinite alternate; }
+      .twinkle2 { animation: twinkle 3.2s ease-in-out infinite alternate; }
+      .twinkle3 { animation: twinkle 1.9s ease-in-out infinite alternate; }
+      @keyframes sway        { 0%,100%{transform:rotate(-3deg)} 50%{transform:rotate(3deg)} }
+      @keyframes floatUp     { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+      @keyframes nameShimmer { from{fill:#7c6a55} to{fill:#4a3d2e} }
+      @keyframes twinkle     { from{opacity:0.15} to{opacity:0.75} }
     </style>
-    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4c1d95;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#7c3aed;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#a855f7;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#4c1d95;stop-opacity:0"/>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   style="stop-color:#f5f0e8;stop-opacity:1"/>
+      <stop offset="50%"  style="stop-color:#ede8dc;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#e8e0d0;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#8a9e82;stop-opacity:0"/>
+      <stop offset="30%"  style="stop-color:#8a9e82;stop-opacity:0.6"/>
+      <stop offset="70%"  style="stop-color:#b8694a;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#b8694a;stop-opacity:0"/>
     </linearGradient>
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#c4b5fd"/>
-      <stop offset="50%" style="stop-color:#ffffff"/>
-      <stop offset="100%" style="stop-color:#c4b5fd"/>
+      <stop offset="0%"   style="stop-color:#7c6a55"/>
+      <stop offset="50%"  style="stop-color:#4a3d2e"/>
+      <stop offset="100%" style="stop-color:#7c6a55"/>
     </linearGradient>
   </defs>
 
-  <rect width="860" height="220" fill="#0a0714" rx="12"/>
+  <!-- Background -->
+  <rect width="860" height="260" fill="url(#bgGrad)" rx="14"/>
+  <!-- Soft ambient blobs -->
+  <circle cx="50"  cy="50"  r="60" fill="#c4a882" fill-opacity="0.06"/>
+  <circle cx="810" cy="210" r="70" fill="#8a9e82" fill-opacity="0.07"/>
+  <circle cx="430" cy="20"  r="80" fill="#b8694a" fill-opacity="0.04"/>
 
-  <circle class="star" cx="40" cy="30" r="1.5" fill="#a78bfa"/>
-  <circle class="star2" cx="120" cy="15" r="1" fill="#c4b5fd"/>
-  <circle class="star3" cx="200" cy="40" r="1.2" fill="#7c3aed"/>
-  <circle class="star" cx="680" cy="20" r="1.5" fill="#a78bfa"/>
-  <circle class="star2" cx="760" cy="35" r="1" fill="#c4b5fd"/>
-  <circle class="star3" cx="820" cy="15" r="1.2" fill="#7c3aed"/>
-  <circle class="star" cx="430" cy="10" r="1" fill="#e9d5ff"/>
-  <circle class="star2" cx="310" cy="25" r="1.2" fill="#a78bfa"/>
-  <circle class="star3" cx="550" cy="18" r="1" fill="#c4b5fd"/>
-  <circle class="star" cx="80" cy="180" r="1.2" fill="#7c3aed"/>
-  <circle class="star2" cx="780" cy="190" r="1" fill="#a78bfa"/>
-  <circle class="star3" cx="430" cy="205" r="1.2" fill="#c4b5fd"/>
+  <!-- Stars -->
+  <circle class="twinkle"  cx="55"  cy="20"  r="1.2" fill="#b8694a" fill-opacity="0.5"/>
+  <circle class="twinkle2" cx="145" cy="42"  r="0.9" fill="#8a9e82" fill-opacity="0.6"/>
+  <circle class="twinkle3" cx="235" cy="16"  r="1.0" fill="#c4a882" fill-opacity="0.5"/>
+  <circle class="twinkle"  cx="625" cy="26"  r="1.0" fill="#8a9e82" fill-opacity="0.5"/>
+  <circle class="twinkle2" cx="715" cy="14"  r="1.2" fill="#b8694a" fill-opacity="0.5"/>
+  <circle class="twinkle3" cx="805" cy="36"  r="0.8" fill="#c4a882" fill-opacity="0.6"/>
+  <circle class="twinkle"  cx="388" cy="10"  r="0.9" fill="#8a9e82" fill-opacity="0.4"/>
 
-  <rect x="180" y="28" width="500" height="0.8" fill="url(#purpleGrad)"/>
-  <circle class="star" cx="175" cy="28" r="2.5" fill="#7c3aed"/>
-  <circle class="star2" cx="685" cy="28" r="2.5" fill="#7c3aed"/>
+  <!-- ── Left botanical (far left edge, not near name) ── -->
+  <line x1="36" y1="250" x2="38" y2="145" stroke="#8a9e82" stroke-width="1.2" stroke-opacity="0.65"/>
+  <line x1="38" y1="195" x2="14" y2="172" stroke="#8a9e82" stroke-width="0.9" stroke-opacity="0.55"/>
+  <g class="leaf"  style="transform-box:fill-box"><ellipse cx="24" cy="170" rx="11" ry="5.5" fill="#8a9e82" fill-opacity="0.40" transform="rotate(-38 24 170)"/></g>
+  <g class="leaf2" style="transform-box:fill-box"><ellipse cx="50" cy="178" rx="10" ry="4.5" fill="#8a9e82" fill-opacity="0.35" transform="rotate( 28 50 178)"/></g>
+  <g class="leaf3" style="transform-box:fill-box"><ellipse cx="12" cy="165" rx="8"  ry="4"   fill="#a3b89b" fill-opacity="0.35" transform="rotate(-52 12 165)"/></g>
+  <circle cx="38" cy="143" r="3.5" fill="#c4a882" fill-opacity="0.55"/>
+  <circle cx="38" cy="143" r="1.5" fill="#b8694a" fill-opacity="0.50"/>
 
-  <text x="430" y="105" text-anchor="middle" class="name-text nameanim" fill="url(#nameGrad)">Sanjana Gadamsetty</text>
-  <text x="430" y="132" text-anchor="middle" class="sub-text">✦ AI &amp; DATA SCIENCE · SJCE + IIT MADRAS ✦</text>
+  <!-- ── Right botanical (far right edge) ── -->
+  <line x1="824" y1="250" x2="822" y2="142" stroke="#b8694a" stroke-width="1.2" stroke-opacity="0.50"/>
+  <line x1="822" y1="192" x2="846" y2="168" stroke="#b8694a" stroke-width="0.9" stroke-opacity="0.40"/>
+  <g class="leaf"  style="transform-box:fill-box"><ellipse cx="836" cy="166" rx="11" ry="5"   fill="#b8694a" fill-opacity="0.32" transform="rotate( 36 836 166)"/></g>
+  <g class="leaf2" style="transform-box:fill-box"><ellipse cx="810" cy="174" rx="10" ry="4.5" fill="#b8694a" fill-opacity="0.28" transform="rotate(-28 810 174)"/></g>
+  <g class="leaf3" style="transform-box:fill-box"><ellipse cx="850" cy="162" rx="7"  ry="3.5" fill="#c4a882" fill-opacity="0.32" transform="rotate( 50 850 162)"/></g>
+  <circle cx="822" cy="140" r="3.5" fill="#8a9e82" fill-opacity="0.50"/>
+  <circle cx="822" cy="140" r="1.5" fill="#5e7a55" fill-opacity="0.50"/>
 
-  <rect x="180" y="148" width="500" height="0.8" fill="url(#purpleGrad)"/>
-  <circle class="star2" cx="175" cy="148" r="2.5" fill="#a855f7"/>
-  <circle class="star3" cx="685" cy="148" r="2.5" fill="#a855f7"/>
+  <!-- ── Top divider ── -->
+  <line x1="160" y1="38" x2="700" y2="38" stroke="url(#lineGrad)" stroke-width="0.7"/>
+  <polygon points="156,38 160,35 164,38 160,41" fill="#8a9e82" fill-opacity="0.5"/>
+  <polygon points="696,38 700,35 704,38 700,41" fill="#b8694a" fill-opacity="0.5"/>
+
+  <!-- ── Name — centred in top half, clear of all tags ── -->
+  <text x="430" y="108" text-anchor="middle" class="name-text namefade" fill="url(#nameGrad)">Sanjana Gadamsetty</text>
+
+  <!-- ── Subtitle ── -->
+  <text x="430" y="132" text-anchor="middle" class="sub-text" fill="#8a9e82" fill-opacity="0.85">AI &amp; DATA SCIENCE · SJCE × IIT MADRAS</text>
+
+  <!-- ── Mid divider ── -->
+  <line x1="160" y1="150" x2="700" y2="150" stroke="url(#lineGrad)" stroke-width="0.7"/>
+  <polygon points="156,150 160,147 164,150 160,153" fill="#b8694a" fill-opacity="0.5"/>
+  <polygon points="696,150 700,147 704,150 700,153" fill="#8a9e82" fill-opacity="0.5"/>
+
+  <!-- ── Tags — single row along the bottom, evenly spaced, clear of the name ── -->
+  <!-- tag width 108, gap ~16; total 6×108 + 5×16 = 728, centred in 860 → start x = (860-728)/2 = 66 -->
 
   <g class="float1">
-    <rect x="30" y="80" width="110" height="28" rx="14" fill="#1e0a3c" stroke="#5b21b6" stroke-width="1"/>
-    <text x="85" y="99" text-anchor="middle" class="tag-text" fill="#c4b5fd">💻 Developer</text>
+    <rect x="66"  y="170" width="108" height="26" rx="13" fill="#f0ebe0" fill-opacity="0.92" stroke="#8a9e82" stroke-width="0.8" stroke-opacity="0.55"/>
+    <text x="120" y="187" text-anchor="middle" class="tag-text" fill="#5c4a35">🌱 Lifelong Learner</text>
   </g>
   <g class="float2">
-    <rect x="30" y="120" width="110" height="28" rx="14" fill="#1e0a3c" stroke="#5b21b6" stroke-width="1"/>
-    <text x="85" y="139" text-anchor="middle" class="tag-text" fill="#c4b5fd">🐍 Python</text>
+    <rect x="190" y="170" width="108" height="26" rx="13" fill="#f0ebe0" fill-opacity="0.92" stroke="#8a9e82" stroke-width="0.8" stroke-opacity="0.55"/>
+    <text x="244" y="187" text-anchor="middle" class="tag-text" fill="#5c4a35">💻 Developer</text>
   </g>
   <g class="float3">
-    <rect x="720" y="80" width="110" height="28" rx="14" fill="#1e0a3c" stroke="#5b21b6" stroke-width="1"/>
-    <text x="775" y="99" text-anchor="middle" class="tag-text" fill="#c4b5fd">🎨 Creative</text>
+    <rect x="314" y="170" width="108" height="26" rx="13" fill="#f0ebe0" fill-opacity="0.92" stroke="#8a9e82" stroke-width="0.8" stroke-opacity="0.55"/>
+    <text x="368" y="187" text-anchor="middle" class="tag-text" fill="#5c4a35">📚 Data Science</text>
   </g>
   <g class="float4">
-    <rect x="720" y="120" width="110" height="28" rx="14" fill="#1e0a3c" stroke="#5b21b6" stroke-width="1"/>
-    <text x="775" y="139" text-anchor="middle" class="tag-text" fill="#c4b5fd">🔥 DSA Grinder</text>
+    <rect x="438" y="170" width="108" height="26" rx="13" fill="#f0ebe0" fill-opacity="0.92" stroke="#b8694a" stroke-width="0.8" stroke-opacity="0.55"/>
+    <text x="492" y="187" text-anchor="middle" class="tag-text" fill="#5c4a35">🎨 Creative</text>
   </g>
   <g class="float5">
-    <rect x="270" y="168" width="110" height="26" rx="13" fill="#1e0a3c" stroke="#4c1d95" stroke-width="1"/>
-    <text x="325" y="185" text-anchor="middle" class="tag-text" fill="#a78bfa">📍 Chennai</text>
+    <rect x="562" y="170" width="108" height="26" rx="13" fill="#f0ebe0" fill-opacity="0.92" stroke="#b8694a" stroke-width="0.8" stroke-opacity="0.55"/>
+    <text x="616" y="187" text-anchor="middle" class="tag-text" fill="#5c4a35">✨ Consistency</text>
   </g>
   <g class="float6">
-    <rect x="480" y="168" width="110" height="26" rx="13" fill="#1e0a3c" stroke="#4c1d95" stroke-width="1"/>
-    <text x="535" y="185" text-anchor="middle" class="tag-text" fill="#a78bfa">✨ Consistent</text>
+    <rect x="686" y="170" width="108" height="26" rx="13" fill="#f0ebe0" fill-opacity="0.92" stroke="#b8694a" stroke-width="0.8" stroke-opacity="0.55"/>
+    <text x="740" y="187" text-anchor="middle" class="tag-text" fill="#5c4a35">📍 Chennai</text>
   </g>
+
+  <!-- ── Bottom decorative row of tiny leaf dots ── -->
+  <circle cx="200" cy="228" r="2" fill="#8a9e82" fill-opacity="0.25"/>
+  <circle cx="260" cy="232" r="1.5" fill="#b8694a" fill-opacity="0.22"/>
+  <circle cx="320" cy="226" r="2" fill="#8a9e82" fill-opacity="0.20"/>
+  <circle cx="430" cy="230" r="2.5" fill="#c4a882" fill-opacity="0.28"/>
+  <circle cx="540" cy="226" r="2" fill="#8a9e82" fill-opacity="0.20"/>
+  <circle cx="600" cy="232" r="1.5" fill="#b8694a" fill-opacity="0.22"/>
+  <circle cx="660" cy="228" r="2" fill="#8a9e82" fill-opacity="0.25"/>
 </svg>
