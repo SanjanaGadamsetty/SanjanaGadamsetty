@@ -1,0 +1,71 @@
+<svg viewBox="0 0 860 110" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&amp;display=swap');
+      .footer-text { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 13px; }
+      .leaf-footer { animation: sway 5s ease-in-out infinite; transform-origin: bottom center; }
+      .leaf-footer2 { animation: sway2 6s ease-in-out infinite; transform-origin: bottom center; }
+      @keyframes sway  { 0%,100%{transform:rotate(-3deg)} 50%{transform:rotate(3deg)} }
+      @keyframes sway2 { 0%,100%{transform:rotate(4deg)}  50%{transform:rotate(-4deg)} }
+    </style>
+    <linearGradient id="hillGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   style="stop-color:#ddd5c4;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#c9bfac;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="hillBack" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   style="stop-color:#8a9e82;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#8a9e82;stop-opacity:0.2"/>
+    </linearGradient>
+    <linearGradient id="hillFront" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   style="stop-color:#b8694a;stop-opacity:0.35"/>
+      <stop offset="100%" style="stop-color:#b8694a;stop-opacity:0.15"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sky / ground base -->
+  <rect width="860" height="110" fill="#f5f0e8" rx="0"/>
+
+  <!-- Far back hill (sage green) -->
+  <path d="M0,80 Q140,30 280,60 Q420,90 560,45 Q700,10 860,55 L860,110 L0,110 Z" fill="url(#hillBack)"/>
+
+  <!-- Mid hill (terracotta) -->
+  <path d="M0,95 Q100,55 220,75 Q350,95 480,65 Q620,38 760,70 Q810,82 860,78 L860,110 L0,110 Z" fill="url(#hillFront)"/>
+
+  <!-- Front ground -->
+  <path d="M0,105 Q215,88 430,100 Q645,112 860,100 L860,110 L0,110 Z" fill="#c4a882" fill-opacity="0.4"/>
+
+  <!-- Tiny stars in sky -->
+  <circle cx="70"  cy="22" r="1"   fill="#8a9e82" fill-opacity="0.4"/>
+  <circle cx="200" cy="14" r="0.8" fill="#b8694a" fill-opacity="0.4"/>
+  <circle cx="430" cy="8"  r="1"   fill="#c4a882" fill-opacity="0.5"/>
+  <circle cx="650" cy="18" r="0.8" fill="#8a9e82" fill-opacity="0.4"/>
+  <circle cx="790" cy="12" r="1"   fill="#b8694a" fill-opacity="0.4"/>
+
+  <!-- Left small botanical -->
+  <g class="leaf-footer" style="transform-box:fill-box">
+    <line x1="30" y1="105" x2="32" y2="72" stroke="#8a9e82" stroke-width="1" stroke-opacity="0.6"/>
+    <ellipse cx="23" cy="80" rx="9" ry="4" fill="#8a9e82" fill-opacity="0.4" transform="rotate(-40 23 80)"/>
+    <ellipse cx="40" cy="84" rx="8" ry="3.5" fill="#8a9e82" fill-opacity="0.35" transform="rotate(30 40 84)"/>
+    <circle cx="32" cy="70" r="2.5" fill="#c4a882" fill-opacity="0.5"/>
+  </g>
+
+  <!-- Right small botanical -->
+  <g class="leaf-footer2" style="transform-box:fill-box">
+    <line x1="828" y1="105" x2="826" y2="74" stroke="#b8694a" stroke-width="1" stroke-opacity="0.5"/>
+    <ellipse cx="818" cy="82" rx="9" ry="3.5" fill="#b8694a" fill-opacity="0.3" transform="rotate(-35 818 82)"/>
+    <ellipse cx="836" cy="86" rx="8" ry="3.5" fill="#b8694a" fill-opacity="0.3" transform="rotate(40 836 86)"/>
+    <circle cx="826" cy="72" r="2.5" fill="#8a9e82" fill-opacity="0.5"/>
+  </g>
+
+  <!-- Center leaf pair -->
+  <g class="leaf-footer" style="transform-box:fill-box">
+    <ellipse cx="418" cy="96" rx="10" ry="4" fill="#8a9e82" fill-opacity="0.3" transform="rotate(-25 418 96)"/>
+    <ellipse cx="442" cy="96" rx="10" ry="4" fill="#b8694a" fill-opacity="0.25" transform="rotate(25 442 96)"/>
+  </g>
+
+  <!-- Thanks text -->
+  <text x="430" y="55" text-anchor="middle" class="footer-text" fill="#7c6a55" fill-opacity="0.75">Thanks for visiting 🌿</text>
+
+  <!-- Thin rule above text -->
+  <line x1="320" y1="44" x2="540" y2="44" stroke="#8a9e82" stroke-width="0.5" stroke-opacity="0.4"/>
+</svg>
