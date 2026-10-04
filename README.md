@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- 🎬 HERO — video intro + name -->
-<img src="./hero.svg?v=1791112768" alt="Hi, I'm Sanjana Gadamsetty — AI-DS Student & Developer" width="100%"/>
+<img src="./hero.svg?v=17911131399999" alt="Hi, I'm Sanjana Gadamsetty — AI-DS Student & Developer" width="100%"/>
 
 <br/><br/>
 
 <!-- ⚛️ TECH STACK -->
-<img src="./stack.svg?v=1791112768" alt="Tech stack" width="100%"/>
+<img src="./stack.svg?v=17911131399999" alt="Tech stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 DEVELOPER ID + DASHBOARD -->
-<img src="./id-dashboard.svg?v=1791112768" alt="Developer ID and dashboard" width="100%"/>
+<img src="./id-dashboard.svg?v=17911131399999" alt="Developer ID and dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -41,7 +41,7 @@
 <br/><br/>
 
 <!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=1791112768" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=17911131399999" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/SanjanaGadamsetty"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
 <a href="mailto:gvnsanjana.ds@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
