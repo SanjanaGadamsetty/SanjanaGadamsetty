@@ -1,0 +1,141 @@
+<svg width="1000" height="400" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: 'Courier New', monospace; font-size: 12px; fill: #22d3ee; text-transform: uppercase; letter-spacing: 2px; }
+      .main-title { font-family: 'Arial', sans-serif; font-size: 32px; font-weight: bold; fill: #ffffff; }
+      .category { font-family: 'Courier New', monospace; font-size: 11px; fill: #a78bfa; text-transform: uppercase; letter-spacing: 1px; }
+      .badge { font-family: 'Courier New', monospace; font-size: 13px; font-weight: 600; }
+
+      @keyframes orbit {
+        from { transform: rotate(0deg) translateX(120px) rotate(0deg); }
+        to { transform: rotate(360deg) translateX(120px) rotate(-360deg); }
+      }
+
+      .orbit-item {
+        animation: orbit 20s linear infinite;
+        transform-origin: center;
+      }
+    </style>
+
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0e16;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1b26;stop-opacity:1" />
+    </linearGradient>
+
+    <linearGradient id="centerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#f472b6;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#22d3ee;stop-opacity:0.3" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="400" fill="url(#bgGrad)" rx="20"/>
+  <rect width="980" height="380" x="10" y="10" fill="none" stroke="#a78bfa" stroke-width="1" rx="15" opacity="0.3"/>
+
+  <!-- Header -->
+  <text x="50" y="40" class="title">// TECH STACK</text>
+  <text x="50" y="80" class="main-title">Tools I build with</text>
+
+  <!-- Left Side: Orbital Graphic -->
+  <g transform="translate(200, 230)">
+    <!-- Outer orbit circles -->
+    <circle cx="0" cy="0" r="120" fill="none" stroke="#a78bfa" stroke-width="1" opacity="0.2"/>
+    <circle cx="0" cy="0" r="90" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.2"/>
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#f472b6" stroke-width="1" opacity="0.2"/>
+
+    <!-- Center circle -->
+    <circle cx="0" cy="0" r="50" fill="url(#centerGrad)"/>
+    <circle cx="0" cy="0" r="45" fill="#1a1b26" opacity="0.8"/>
+
+    <!-- Code symbol in center -->
+    <text x="0" y="10" text-anchor="middle" font-size="36" fill="#a78bfa" font-family="monospace">&lt;/&gt;</text>
+
+    <!-- Orbiting tech icons (simplified as colored circles) -->
+    <circle cx="0" cy="-120" r="12" fill="#3776AB" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="103" cy="-60" r="10" fill="#F7DF1E" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="45 0 0" to="405 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="0" r="10" fill="#E34F26" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="90 0 0" to="450 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="103" cy="60" r="10" fill="#000000" opacity="0.8" stroke="#ffffff" stroke-width="1">
+      <animateTransform attributeName="transform" type="rotate" from="135 0 0" to="495 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="120" r="12" fill="#4479A1" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="180 0 0" to="540 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-103" cy="60" r="10" fill="#00599C" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="225 0 0" to="585 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-120" cy="0" r="10" fill="#F05032" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="270 0 0" to="630 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-103" cy="-60" r="10" fill="#61DAFB" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="315 0 0" to="675 0 0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Right Side: Tech Stack Categories -->
+  <g transform="translate(450, 120)">
+    <!-- FRONTEND -->
+    <text x="0" y="0" class="category">— FRONTEND</text>
+    <g transform="translate(0, 20)">
+      <rect x="0" y="0" width="90" height="30" rx="6" fill="#E34F26" opacity="0.15" stroke="#E34F26" stroke-width="1"/>
+      <text x="45" y="20" text-anchor="middle" class="badge" fill="#E34F26">HTML5</text>
+
+      <rect x="100" y="0" width="75" height="30" rx="6" fill="#1572B6" opacity="0.15" stroke="#1572B6" stroke-width="1"/>
+      <text x="137.5" y="20" text-anchor="middle" class="badge" fill="#1572B6">CSS3</text>
+
+      <rect x="185" y="0" width="110" height="30" rx="6" fill="#F7DF1E" opacity="0.15" stroke="#F7DF1E" stroke-width="1"/>
+      <text x="240" y="20" text-anchor="middle" class="badge" fill="#F7DF1E">JavaScript</text>
+
+      <rect x="305" y="0" width="80" height="30" rx="6" fill="#61DAFB" opacity="0.15" stroke="#61DAFB" stroke-width="1"/>
+      <text x="345" y="20" text-anchor="middle" class="badge" fill="#61DAFB">React</text>
+    </g>
+
+    <!-- BACKEND & DATABASE -->
+    <text x="0" y="80" class="category">— BACKEND &amp; DATABASE</text>
+    <g transform="translate(0, 100)">
+      <rect x="0" y="0" width="85" height="30" rx="6" fill="#3776AB" opacity="0.15" stroke="#3776AB" stroke-width="1"/>
+      <text x="42.5" y="20" text-anchor="middle" class="badge" fill="#3776AB">Python</text>
+
+      <rect x="95" y="0" width="75" height="30" rx="6" fill="#000000" opacity="0.15" stroke="#ffffff" stroke-width="1"/>
+      <text x="132.5" y="20" text-anchor="middle" class="badge" fill="#ffffff">Flask</text>
+
+      <rect x="180" y="0" width="85" height="30" rx="6" fill="#4479A1" opacity="0.15" stroke="#4479A1" stroke-width="1"/>
+      <text x="222.5" y="20" text-anchor="middle" class="badge" fill="#4479A1">MySQL</text>
+
+      <rect x="275" y="0" width="70" height="30" rx="6" fill="#00599C" opacity="0.15" stroke="#00599C" stroke-width="1"/>
+      <text x="310" y="20" text-anchor="middle" class="badge" fill="#00599C">C++</text>
+    </g>
+
+    <!-- DATA SCIENCE & AI -->
+    <text x="0" y="160" class="category">— DATA SCIENCE &amp; AI</text>
+    <g transform="translate(0, 180)">
+      <rect x="0" y="0" width="85" height="30" rx="6" fill="#013243" opacity="0.15" stroke="#4DABCF" stroke-width="1"/>
+      <text x="42.5" y="20" text-anchor="middle" class="badge" fill="#4DABCF">NumPy</text>
+
+      <rect x="95" y="0" width="90" height="30" rx="6" fill="#150458" opacity="0.15" stroke="#E70488" stroke-width="1"/>
+      <text x="140" y="20" text-anchor="middle" class="badge" fill="#E70488">Pandas</text>
+
+      <rect x="195" y="0" width="130" height="30" rx="6" fill="#F7931E" opacity="0.15" stroke="#F7931E" stroke-width="1"/>
+      <text x="260" y="20" text-anchor="middle" class="badge" fill="#F7931E">Scikit-Learn</text>
+    </g>
+
+    <!-- TOOLS & WORKFLOW -->
+    <text x="0" y="240" class="category">— TOOLS &amp; WORKFLOW</text>
+    <g transform="translate(0, 260)">
+      <rect x="0" y="0" width="60" height="30" rx="6" fill="#F05032" opacity="0.15" stroke="#F05032" stroke-width="1"/>
+      <text x="30" y="20" text-anchor="middle" class="badge" fill="#F05032">Git</text>
+
+      <rect x="70" y="0" width="85" height="30" rx="6" fill="#181717" opacity="0.15" stroke="#ffffff" stroke-width="1"/>
+      <text x="112.5" y="20" text-anchor="middle" class="badge" fill="#ffffff">GitHub</text>
+
+      <rect x="165" y="0" width="95" height="30" rx="6" fill="#007ACC" opacity="0.15" stroke="#007ACC" stroke-width="1"/>
+      <text x="212.5" y="20" text-anchor="middle" class="badge" fill="#007ACC">VS Code</text>
+    </g>
+  </g>
+</svg>
