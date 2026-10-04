@@ -66,11 +66,6 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 
   <!-- viewfinder HUD -->
   <path class="corner" d="M760 74V40H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.3s"/><path class="corner" d="M1236 74V40H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.38s"/><path class="corner" d="M760 466V500H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.46s"/><path class="corner" d="M1236 466V500H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.54s"/>
-  <g class="fi" style="animation-delay:.6s">
-    <circle cx="782" cy="483" r="5" fill="#ef4444"><animate attributeName="opacity" values="1;.15;1" dur="1.2s" repeatCount="indefinite"/></circle>
-    <text class="jbb" x="794" y="488" font-size="13" fill="#eceef6" letter-spacing="2">REC</text>
-    <text class="jb" x="1222" y="488" font-size="12" fill="#8d93ab" text-anchor="end" letter-spacing="1.5">HELLO.MP4 &#183; 24FPS</text>
-  </g>
   <!-- scrub bar synced to video loop -->
   <g class="fi" style="animation-delay:.8s">
     <rect x="760" y="516" width="476" height="3" rx="1.5" fill="#ffffff" fill-opacity=".12"/>
