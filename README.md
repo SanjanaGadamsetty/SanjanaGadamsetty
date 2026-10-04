@@ -30,49 +30,94 @@ My interests span from machine learning and data analytics to web development an
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 TECH STACK
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-</div>
-
----
-
-## 📊 Developer Dashboard
-
-<div align="center">
+### Tools I build with
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjanaGadamsetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0e16&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="100%" />
+#### — FRONTEND
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+#### — BACKEND & DATABASE
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaGadamsetty&theme=tokyonight&hide_border=true&background=0d0e16&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="100%" />
+#### — DATA SCIENCE & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+#### — TOOLS & WORKFLOW
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📊 DEVELOPER DASHBOARD
+
+### Profile at a glance
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SanjanaGadamsetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0e16&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&custom_title=Sanjana%20Gadamsetty%20•%20Developer%20Stats" width="100%" />
+
+</div>
+
+**DEVELOPER ID**: SanjanaGadamsetty  
+**BASE**: Chennai, India 🇮🇳  
+**ROLE**: AI-DS Student & Developer  
+**TEAM**: SJCE + IIT Madras  
+**YEAR**: 2nd Year (2025)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 PUBLIC STATS
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaGadamsetty&theme=tokyonight&hide_border=true&background=0d0e16&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="100%" />
+
+#### 🌟 MOST-STARRED PROJECTS
+- **BookTracker** - Full-stack reading management
+- **Socratic Tutoring** - AI-powered learning system  
+- **HP Portfolio** - Magical themed portfolio
+- **Secure Vault** - Document encryption system
+
+#### 💡 SKILLS & INTERESTS
+- Chromatic online web experiences
+- AI/ML & Data Science applications  
+- Full-stack development
+- Competitive programming
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjanaGadamsetty&theme=tokyo-night&hide_border=true&bg_color=0d0e16&color=a78bfa&line=a78bfa&point=c9d1d9" width="100%" />
 
