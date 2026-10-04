@@ -5,11 +5,6 @@
 
 <br/><br/>
 
-<!-- 👩‍💻 LEFT: what I build   •   🏃 RIGHT: life outside code -->
-<img src="./about-life.svg?v=1791112768" alt="What I build, and life beyond the code" width="100%"/>
-
-<br/><br/>
-
 <!-- ⚛️ TECH STACK -->
 <img src="./stack.svg?v=1791112768" alt="Tech stack" width="100%"/>
 
