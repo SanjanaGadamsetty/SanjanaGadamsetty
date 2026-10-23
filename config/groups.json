@@ -1,0 +1,54 @@
+{
+  "Contribution animations": [
+    "contribution_snake",
+    "pacman_graph",
+    "contribution_skyline_3d",
+    "contribution_galaxy",
+    "contribution_heatmap",
+    "contribution_activity_graph",
+    "year_in_code_calendar"
+  ],
+  "GitHub statistics": [
+    "github_stats_cards",
+    "github_streak_stats",
+    "github_trophy_wall",
+    "most_used_languages",
+    "github_metrics_dashboard",
+    "productive_hours_graph",
+    "repository_statistics",
+    "milestone_tracker"
+  ],
+  "Coding platforms": [
+    "leetcode_statistics",
+    "codeforces_rating_tracker",
+    "codechef_rating_tracker",
+    "hackerrank_badges",
+    "wakatime_statistics",
+    "dsa_progress_tracker",
+    "daily_coding_challenge"
+  ],
+  "Open source": [
+    "pull_request_tracker",
+    "issue_contribution_tracker",
+    "open_source_journey_timeline",
+    "contributor_leaderboard",
+    "latest_github_activity",
+    "featured_repository_rotation"
+  ],
+  "Futuristic visuals": [
+    "animated_typing_header",
+    "dynamic_neofetch_card",
+    "terminal_status_dashboard",
+    "developer_radar_chart",
+    "developer_xp_system",
+    "github_achievement_game",
+    "cosmic_developer_dashboard"
+  ],
+  "Personal automation": [
+    "latest_blog_posts",
+    "daily_developer_quote",
+    "spotify_now_playing",
+    "currently_building",
+    "learning_progress_dashboard"
+  ]
+}
