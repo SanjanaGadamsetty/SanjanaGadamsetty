@@ -41,55 +41,79 @@ I’m **Sanjana Gadamsetty**, an AI & Data Science student who loves building us
 All enabled modules appear directly below. No expand/collapse controls.
 
 <!-- NEON:FEATURES:START -->
-<!-- Generated. Edit config/features.json, not this section. -->
+<!-- AUTO-GENERATED VISUAL MODULES: edit config/features.json -->
 
-### ✦ CONTRIBUTION ANIMATIONS
+## Contribution Animations
 
-#### 💠 Contribution Snake
+<div align="center">
 
-[🐍 View contribution snake workflow and output](https://github.com/SanjanaGadamsetty/actions/workflows/snake.yml)
+<img src="./assets/modules/contribution_snake.svg" alt="Contribution Snake" width="700" />
+<br>
 
----
+[🐍 View contribution snake animation workflow](https://github.com/SanjanaGadamsetty/actions/workflows/snake.yml)
+<br>
 
-#### 💠 Contribution Activity Graph
+<img src="./assets/modules/contribution_activity_graph.svg" alt="Contribution Activity Graph" width="700" />
+<br>
 
-<div align="center"><img src="./assets/generated/activity.svg" alt="contribution activity graph" width="700" /></div>
+<img src="./assets/generated/activity.svg" alt="Contribution Activity Graph live public data" width="700" />
+<br>
 
----
-
-### ✦ GITHUB STATISTICS
-
-#### 💠 Github Stats Cards
-
-<div align="center"><img src="./assets/generated/stats.svg" alt="github stats cards" width="700" /></div>
+</div>
 
 ---
 
-#### 💠 Most Used Languages
+## Github Statistics
 
-<div align="center"><img src="./assets/generated/languages.svg" alt="most used languages" width="700" /></div>
+<div align="center">
+
+<img src="./assets/modules/github_stats_cards.svg" alt="Github Stats Cards" width="700" />
+<br>
+
+<img src="./assets/generated/stats.svg" alt="Github Stats Cards live public data" width="700" />
+<br>
+
+<img src="./assets/modules/most_used_languages.svg" alt="Most Used Languages" width="700" />
+<br>
+
+<img src="./assets/generated/languages.svg" alt="Most Used Languages live public data" width="700" />
+<br>
+
+</div>
 
 ---
 
-### ✦ OPEN SOURCE
+## Open Source
 
-#### 💠 Pull Request Tracker
+<div align="center">
 
-<div align="center"><img src="./assets/generated/opensource.svg" alt="pull request tracker" width="700" /></div>
+<img src="./assets/modules/pull_request_tracker.svg" alt="Pull Request Tracker" width="700" />
+<br>
+
+<img src="./assets/generated/opensource.svg" alt="Pull Request Tracker live public data" width="700" />
+<br>
+
+<img src="./assets/modules/featured_repository_rotation.svg" alt="Featured Repository Rotation" width="700" />
+<br>
+
+<img src="./assets/generated/projects.svg" alt="Featured Repository Rotation live public data" width="700" />
+<br>
+
+</div>
 
 ---
 
-#### 💠 Featured Repository Rotation
+## Futuristic Visuals
 
-<div align="center"><img src="./assets/generated/projects.svg" alt="featured repository rotation" width="700" /></div>
+<div align="center">
 
----
+<img src="./assets/modules/animated_typing_header.svg" alt="Animated Typing Header" width="700" />
+<br>
 
-### ✦ FUTURISTIC VISUALS
+![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF58D9&center=true&vCenter=true&width=680&lines=Build+Boldly;Learn+Relentlessly;Create+Differently)
+<br>
 
-#### 💠 Animated Typing Header
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2700&amp;pause=950&amp;color=FF55D8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+what%27s+next;AI+%2B+Full-Stack+%2B+Open+Source" alt="animated typing header" width="700" /></div>
+</div>
 
 ---
 <!-- NEON:FEATURES:END -->
