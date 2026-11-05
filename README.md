@@ -103,6 +103,40 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 <!-- END 3D CONTRIBUTION SKYLINE -->
 
+<!-- BEGIN CODING ARENA -->
+
+<div align="center">
+
+## 🏆 The Coding Arena
+
+### Seven Platforms. One Coding Journey.
+
+*Every problem solved is another step forward.*
+
+</div>
+
+| Platform | Focus | My Profile |
+|:---|:---|:---:|
+| 💛 **LeetCode** | DSA & Problem Solving | [View Profile](https://leetcode.com/u/sanjana-gadamsetty/) |
+| 🩶 **GeeksforGeeks** | Data Structures & Algorithms | [View Profile](https://www.geeksforgeeks.org/profile/gvnsanjana09) |
+| 🤎 **CodeChef** | Competitive Programming | [View Profile](https://www.codechef.com/users/bit_flux_radha) |
+| 💚 **HackerRank** | Coding Challenges | [View Profile](https://www.hackerrank.com/profile/gvnsanjana_ds) |
+| 🩵 **Codeforces** | Contests & Ratings | [View Profile](https://codeforces.com/profile/gvnsanjana) |
+| 🤍 **AtCoder** | Algorithmic Contests | [View Profile](https://atcoder.jp/users/sanjanagvn) |
+| 🧡 **HackerEarth** | Programming Challenges | [View Profile](https://www.hackerearth.com/@gvnsanjana.ds) |
+
+<div align="center">
+
+### 📊 Live Coding Statistics
+
+*Tracking progress across my coding journey.*
+
+<!-- LIVE CODING STATS WILL GO HERE -->
+
+</div>
+
+<!-- END CODING ARENA -->
+
 ### 🌌 Explore My Developer Universe
 
 🎮 Developer RPG • 🪐 Project Galaxy
