@@ -1,0 +1,25 @@
+
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "30 1 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: alexcerezo/activity-graph@v1
+        with:
+          username: SanjanaGadamsetty
+          token: ${{ secrets.GITHUB_TOKEN }}
