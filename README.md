@@ -52,22 +52,23 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 <!-- END PAC-MAN ANIMATION -->
 
-<picture><!-- BEGIN ACTIVITY-GRAPH -->
+<!-- BEGIN ACTIVITY-GRAPH -->
 
 <div align="center">
 
   <h2>📈 My GitHub Activity Graph</h2>
 
+  <p>Every contribution tells a story of growth.</p>
+
   <img
-    src="./activity-graph.svg"
-    alt="Sanjana's GitHub Activity Graph"
+    src="./activity-line-graph.svg"
+    alt="Sanjana's GitHub Activity Line Graph"
     width="100%"
   />
 
 </div>
 
 <!-- END ACTIVITY-GRAPH -->
-</picture>
 
 ### 🌌 Explore My Developer Universe
 
