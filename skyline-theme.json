@@ -1,0 +1,39 @@
+
+{
+  "type": "season",
+  "fileName": "profile-navy-gold.svg",
+  "backgroundColor": "#101827",
+  "foregroundColor": "#F5E6C4",
+  "strongColor": "#D8B76A",
+  "weakColor": "#53647B",
+  "radarColor": "#D8B76A",
+  "growingAnimation": true,
+  "contribColors1": [
+    "#1B2940",
+    "#5C4B30",
+    "#96743E",
+    "#D8B76A",
+    "#F5E6C4"
+  ],
+  "contribColors2": [
+    "#1B2940",
+    "#5C4B30",
+    "#96743E",
+    "#D8B76A",
+    "#F5E6C4"
+  ],
+  "contribColors3": [
+    "#1B2940",
+    "#5C4B30",
+    "#96743E",
+    "#D8B76A",
+    "#F5E6C4"
+  ],
+  "contribColors4": [
+    "#1B2940",
+    "#5C4B30",
+    "#96743E",
+    "#D8B76A",
+    "#F5E6C4"
+  ]
+}
