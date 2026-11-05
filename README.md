@@ -52,6 +52,26 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 <!-- END PAC-MAN ANIMATION -->
 
+<!-- GITHUB CONTRIBUTION ACTIVITY GRAPH -->
+
+<h2 align="center">📈 My Coding Activity</h2>
+
+<p align="center">
+  A visual timeline of my GitHub contributions.
+</p>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SanjanaGadamsetty&bg_color=101827&color=D8B76A&line=D8B76A&point=FFFFFF&area=true&area_color=26344A&hide_border=true&radius=12"
+    alt="Sanjana's GitHub Contribution Activity Graph"
+    width="100%"
+  />
+
+</div>
+
+<!-- END GITHUB ACTIVITY GRAPH -->
+
 ### 🌌 Explore My Developer Universe
 
 🎮 Developer RPG • 🪐 Project Galaxy
