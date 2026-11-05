@@ -3,8 +3,11 @@ name: Advanced GitHub Metrics
 
 on:
   schedule:
+    # Daily at 8:00 AM IST
     - cron: "30 2 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -16,46 +19,47 @@ permissions:
 
 jobs:
   github-metrics:
+    name: Generate GitHub Metrics
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate advanced metrics
+      - name: Generate GitHub Metrics SVG
         uses: lowlighter/metrics@latest
         with:
+          # Authentication
           token: ${{ secrets.METRICS_TOKEN }}
-          user: SanjanaGadamsetty
-
-          filename: github-metrics.svg
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-          template: classic
-          base: header, activity, community, repositories, metadata
+          # GitHub profile
+          user: SanjanaGadamsetty
+          filename: github-metrics.svg
 
+          # Appearance
+          template: classic
           config_timezone: Asia/Kolkata
           config_display: large
           config_animations: yes
           config_twemoji: yes
 
+          # Main profile statistics
+          base: header, activity, community, repositories, metadata
+
+          # Programming languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_categories: programming, markup
 
+          # Isometric contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          plugin_activity: no
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-
-          plugin_achievements: no
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
+          # Recently starred repositories
           plugin_stars: yes
           plugin_stars_limit: 4
+
+          # Temporarily disabled failing plugins
+          plugin_habits: no
+          plugin_activity: no
+          plugin_achievements: no
