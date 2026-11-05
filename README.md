@@ -13,39 +13,25 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="C, C++, Java, Python, JavaScript" />
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend Development" />
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS, React" />
 
 ### Development Tools
 
-<h3 align="center">Development Tools</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
-    height="48"
-    alt="Git, GitHub, VS Code"
-  />
-  &nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg"
-    height="48"
-    alt="Cursor"
-  />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48" alt="Git, GitHub, VS Code" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" height="48" alt="Cursor" />
 
 ---
 
-<!-- PAC-MAN CONTRIBUTION ANIMATION -->
+<!-- BEGIN PAC-MAN ANIMATION -->
 
-<h2 align="center">🟡 My Contribution Arcade</h2>
+## 🟡 My Contribution Arcade
 
-<p align="center">
-  Every contribution is another step in my coding journey!
-</p>
+*Every contribution is another step in my coding journey!*
 
 <picture>
   <source
@@ -65,47 +51,41 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 <!-- END PAC-MAN ANIMATION -->
 
+---
+
 <!-- BEGIN ACTIVITY-GRAPH -->
 
-<div align="center">
+## 📈 My GitHub Activity Graph
 
-  <h2>📈 My GitHub Activity Graph</h2>
+*Every contribution tells a story of growth.*
 
-  <p>Every contribution tells a story of growth.</p>
-
-  <img
-    src="./activity-line-graph.svg"
-    alt="Sanjana's GitHub Activity Line Graph"
-    width="100%"
-  />
-
-</div>
+<img
+  src="./activity-line-graph.svg"
+  alt="Sanjana's Navy and Gold GitHub Activity Graph"
+  width="100%"
+/>
 
 <!-- END ACTIVITY-GRAPH -->
 
+---
+
 <!-- BEGIN 3D CONTRIBUTION SKYLINE -->
 
-<div align="center">
+## 🌃 My 3D Contribution Skyline
 
-  <h2>🌃 My 3D Contribution Skyline</h2>
+*Building my developer journey, one contribution at a time.*
 
-  <p>Building my developer journey, one contribution at a time.</p>
-
-  
-  <img
-    src="./profile-3d-contrib/profile-navy-gold.svg"
-    alt="Sanjana's Midnight Navy and Gold 3D Contribution Skyline"
-    width="100%"
-  />
-
-
-</div>
+<img
+  src="./profile-3d-contrib/profile-navy-gold.svg"
+  alt="Sanjana's Midnight Navy and Gold 3D Contribution Skyline"
+  width="100%"
+/>
 
 <!-- END 3D CONTRIBUTION SKYLINE -->
 
-<!-- BEGIN CODING ARENA -->
+---
 
-<div align="center">
+<!-- BEGIN CODING ARENA -->
 
 ## 🏆 The Coding Arena
 
@@ -113,17 +93,25 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 *Every problem solved is another step forward.*
 
+<img
+  src="./coding-arena.svg"
+  alt="Sanjana's Seven-Platform Coding Arena"
+  width="100%"
+/>
+
+### 🌐 Explore My Coding Profiles
+
 </div>
 
 | Platform | Focus | My Profile |
 |:---|:---|:---:|
-| 💛 **LeetCode** | DSA & Problem Solving | [View Profile](https://leetcode.com/u/sanjana-gadamsetty/) |
-| 🩶 **GeeksforGeeks** | Data Structures & Algorithms | [View Profile](https://www.geeksforgeeks.org/profile/gvnsanjana09) |
-| 🤎 **CodeChef** | Competitive Programming | [View Profile](https://www.codechef.com/users/bit_flux_radha) |
+| 🟡 **LeetCode** | DSA & Problem Solving | [View Profile](https://leetcode.com/u/sanjana-gadamsetty/) |
+| 🟢 **GeeksforGeeks** | Data Structures & Algorithms | [View Profile](https://www.geeksforgeeks.org/profile/gvnsanjana09) |
+| 🟤 **CodeChef** | Competitive Programming | [View Profile](https://www.codechef.com/users/bit_flux_radha) |
 | 💚 **HackerRank** | Coding Challenges | [View Profile](https://www.hackerrank.com/profile/gvnsanjana_ds) |
-| 🩵 **Codeforces** | Contests & Ratings | [View Profile](https://codeforces.com/profile/gvnsanjana) |
-| 🤍 **AtCoder** | Algorithmic Contests | [View Profile](https://atcoder.jp/users/sanjanagvn) |
-| 🧡 **HackerEarth** | Programming Challenges | [View Profile](https://www.hackerearth.com/@gvnsanjana.ds) |
+| 🔵 **Codeforces** | Contests & Ratings | [View Profile](https://codeforces.com/profile/gvnsanjana) |
+| ⚪ **AtCoder** | Algorithmic Contests | [View Profile](https://atcoder.jp/users/sanjanagvn) |
+| 🟣 **HackerEarth** | Programming Challenges | [View Profile](https://www.hackerearth.com/@gvnsanjana.ds) |
 
 <div align="center">
 
@@ -131,26 +119,36 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 *Tracking progress across my coding journey.*
 
-<!-- LIVE CODING STATS WILL GO HERE -->
+<!-- BEGIN LIVE CODING STATS -->
 
-</div>
+<!-- Verified coding statistics will be added here -->
+
+<!-- END LIVE CODING STATS -->
 
 <!-- END CODING ARENA -->
 
-### 🌌 Explore My Developer Universe
+---
 
-🎮 Developer RPG • 🪐 Project Galaxy
+## 🌌 Explore My Developer Universe
 
-📊 Coding Dashboard • 🌤️ Coding Weather
+🎮 **Developer RPG** · 🪐 **Project Galaxy**
 
-🔮 Daily Coding Fortune
+🌤️ **Coding Weather** · 🔮 **Daily Coding Fortune**
+
+*More features coming soon.*
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 [GitHub](https://github.com/SanjanaGadamsetty)
-|
+&nbsp; • &nbsp;
 [Portfolio](https://portfolio.gvnsanjana.in)
+
+---
+
+*Thanks for visiting my developer universe!*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:D8B76A,50:18263D,100:101827&height=110&section=footer)
 
 </div>
