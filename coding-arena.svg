@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="660" viewBox="0 0 1000 660">
+<rect width="1000" height="660" rx="22" fill="#101827"/>
+<text x="500" y="62" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#D8B76A">THE CODING ARENA</text>
+<text x="500" y="94" text-anchor="middle" font-family="Arial" font-size="15" fill="#A9B5C8">Seven Platforms · One Coding Journey</text>
+<rect x="40" y="130" width="450" height="94" rx="14" fill="#192538" stroke="#53647B"/>
+<text x="62" y="167" font-family="Arial" font-size="22" font-weight="bold" fill="#D8B76A">LeetCode</text>
+<text x="62" y="195" font-family="Arial" font-size="15" fill="#A9B5C8">DSA &amp; Problem Solving</text>
+<rect x="510" y="130" width="450" height="94" rx="14" fill="#192538" stroke="#53647B"/>
+<text x="532" y="167" font-family="Arial" font-size="22" font-weight="bold" fill="#D8B76A">GeeksforGeeks</text>
+<text x="532" y="195" font-family="Arial" font-size="15" fill="#A9B5C8">Data Structures &amp; Algorithms</text>
+<rect x="40" y="242" width="450" height="94" rx="14" fill="#192538" stroke="#53647B"/>
+<text x="62" y="279" font-family="Arial" font-size="22" font-weight="bold" fill="#D8B76A">CodeChef</text>
+<text x="62" y="307" font-family="Arial" font-size="15" fill="#A9B5C8">Competitive Programming</text>
+<rect x="510" y="242" width="450" height="94" rx="14" fill="#192538" stroke="#53647B"/>
+<text x="532" y="279" font-family="Arial" font-size="22" font-weight="bold" fill="#D8B76A">HackerRank</text>
+<text x="532" y="307" font-family="Arial" font-size="15" fill="#A9B5C8">Coding Challenges</text>
+<rect x="40" y="354" width="450" height="94" rx="14" fill="#192538" stroke="#53647B"/>
+<text x="62" y="391" font-family="Arial" font-size="22" font-weight="bold" fill="#D8B76A">Codeforces</text>
+<text x="62" y="419" font-family="Arial" font-size="15" fill="#A9B5C8">Contests &amp; Ratings</text>
+<rect x="510" y="354" width="450" height="94" rx="14" fill="#192538" stroke="#53647B"/>
+<text x="532" y="391" font-family="Arial" font-size="22" font-weight="bold" fill="#D8B76A">AtCoder</text>
+<text x="532" y="419" font-family="Arial" font-size="15" fill="#A9B5C8">Algorithm Contests</text>
+<rect x="40" y="466" width="450" height="94" rx="14" fill="#192538" stroke="#53647B"/>
+<text x="62" y="503" font-family="Arial" font-size="22" font-weight="bold" fill="#D8B76A">HackerEarth</text>
+<text x="62" y="531" font-family="Arial" font-size="15" fill="#A9B5C8">Programming Challenges</text>
+<line x1="40" y1="594" x2="960" y2="594" stroke="#53647B"/>
+<text x="500" y="625" text-anchor="middle" font-family="Arial" font-size="16" fill="#F5E6C4">Live statistics coming next</text>
+</svg>
