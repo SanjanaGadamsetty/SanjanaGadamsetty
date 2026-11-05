@@ -78,11 +78,13 @@ Building projects, exploring technologies, and sharing my coding journey.
 
   <p>Building my developer journey, one contribution at a time.</p>
 
+  
   <img
-    src="./profile-3d-contrib/profile-night-view.svg"
-    alt="Sanjana's 3D GitHub Contribution Skyline"
+    src="./profile-3d-contrib/profile-navy-gold.svg"
+    alt="Sanjana's Midnight Navy and Gold 3D Contribution Skyline"
     width="100%"
   />
+
 
 </div>
 
