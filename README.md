@@ -93,12 +93,6 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 *Every problem solved is another step forward.*
 
-<img
-  src="./coding-arena.svg"
-  alt="Sanjana's Seven-Platform Coding Arena"
-  width="100%"
-/>
-
 ### 🌐 Explore My Coding Profiles
 
 </div>
