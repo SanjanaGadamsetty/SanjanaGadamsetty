@@ -31,21 +31,9 @@ Building projects, exploring technologies, and sharing my coding journey.
   />
   &nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xampp/xampp-original.svg"
-    height="48"
-    alt="XAMPP"
-  />
-  &nbsp;
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg"
     height="48"
     alt="Cursor"
-  />
-  &nbsp;
-  <img
-    src="https://cdn.simpleicons.org/google"
-    height="48"
-    alt="Google Antigravity (temporary icon)"
   />
 </p>
 
