@@ -25,6 +25,33 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 ---
 
+
+<!-- PAC-MAN CONTRIBUTION ANIMATION -->
+
+<h2 align="center">🟡 My Contribution Arcade</h2>
+
+<p align="center">
+  Every contribution is another step in my coding journey!
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SanjanaGadamsetty/SanjanaGadamsetty/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SanjanaGadamsetty/SanjanaGadamsetty/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man eating my GitHub contributions"
+    src="https://raw.githubusercontent.com/SanjanaGadamsetty/SanjanaGadamsetty/output/pacman-contribution-graph.svg"
+    width="100%"
+  />
+</picture>
+
+<!-- END PAC-MAN ANIMATION -->
+
 ### 🌌 Explore My Developer Universe
 
 🎮 Developer RPG • 🪐 Project Galaxy
