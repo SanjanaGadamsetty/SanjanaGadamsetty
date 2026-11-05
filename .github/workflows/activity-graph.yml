@@ -1,25 +1,42 @@
 
-name: Generate Activity Graph
+name: Generate Navy Gold Activity Graph
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "30 1 * * *"
-
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  activity-graph:
+  generate-graph:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate activity graph
-        uses: alexcerezo/activity-graph@v1
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          username: SanjanaGadamsetty
-          token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: "3.11"
+
+      - name: Generate navy and gold graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_activity_graph.py
+
+      - name: Commit generated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add activity-line-graph.svg
+
+          if git diff --cached --quiet; then
+            echo "No graph changes to commit"
+          else
+            git commit -m "Update navy gold activity graph"
+            git push
+          fi
