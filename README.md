@@ -1,12 +1,31 @@
 
 <div align="center">
 
-## 📊 My GitHub Analytics
+# ✨ Sanjana Gadamsetty
 
-<img
-  src="https://raw.githubusercontent.com/SanjanaGadamsetty/SanjanaGadamsetty/main/github-metrics.svg"
-  alt="Sanjana's GitHub Metrics"
-  width="100%"
-/>
+### Developer • Problem Solver • Tech Creator
+
+Welcome to my Developer Universe!
+
+Building projects, exploring technologies,
+and sharing my coding journey.
+
+---
+
+### 🌌 Explore My Universe
+
+💻 Tech Stack • 🏆 Achievements • 📊 Coding Stats
+
+🎮 Developer RPG • 🪐 Project Galaxy
+
+🌤️ Coding Weather • 🔮 Daily Coding Fortune
+
+---
+
+### 🔗 Connect With Me
+
+[GitHub](https://github.com/SanjanaGadamsetty)
+|
+[Portfolio](https://portfolio.gvnsanjana.in)
 
 </div>
