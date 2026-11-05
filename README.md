@@ -21,10 +21,35 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools" />
+<h3 align="center">Development Tools</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
+    height="48"
+    alt="Git, GitHub, VS Code"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xampp/xampp-original.svg"
+    height="48"
+    alt="XAMPP"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg"
+    height="48"
+    alt="Cursor"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.simpleicons.org/google"
+    height="48"
+    alt="Google Antigravity (temporary icon)"
+  />
+</p>
 
 ---
-
 
 <!-- PAC-MAN CONTRIBUTION ANIMATION -->
 
