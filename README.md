@@ -63,14 +63,14 @@ Building projects, exploring technologies, and sharing my coding journey.
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SanjanaGadamsetty&bg_color=101827&color=D8B76A&line=D8B76A&point=FFFFFF&area=true&area_color=26344A&hide_border=true&radius=12"
-    alt="Sanjana's GitHub Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SanjanaGadamsetty&amp;bg_color=101827&amp;color=D8B76A&amp;line=D8B76A&amp;point=FFFFFF&amp;area=true&amp;hide_border=true"
+    alt="Sanjana's GitHub Activity Graph"
     width="100%"
   />
 
 </div>
 
-<!-- END GITHUB ACTIVITY GRAPH -->
+<!-- END GITHUB CONTRIBUTION ACTIVITY GRAPH -->
 
 ### 🌌 Explore My Developer Universe
 
