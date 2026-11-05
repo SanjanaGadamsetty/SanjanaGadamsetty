@@ -70,6 +70,24 @@ Building projects, exploring technologies, and sharing my coding journey.
 
 <!-- END ACTIVITY-GRAPH -->
 
+<!-- BEGIN 3D CONTRIBUTION SKYLINE -->
+
+<div align="center">
+
+  <h2>🌃 My 3D Contribution Skyline</h2>
+
+  <p>Building my developer journey, one contribution at a time.</p>
+
+  <img
+    src="./profile-3d-contrib/profile-night-view.svg"
+    alt="Sanjana's 3D GitHub Contribution Skyline"
+    width="100%"
+  />
+
+</div>
+
+<!-- END 3D CONTRIBUTION SKYLINE -->
+
 ### 🌌 Explore My Developer Universe
 
 🎮 Developer RPG • 🪐 Project Galaxy
